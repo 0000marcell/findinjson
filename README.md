@@ -21,3 +21,7 @@ cat tmp | findinjson -k "document" | findinjson -k "children"
 // [{ name: marcell}, { name: cruz }]
 ```
 
+## Instalation
+```
+npm i -g findinjson
+```
