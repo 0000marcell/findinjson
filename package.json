@@ -1,0 +1,17 @@
+{
+  "name": "findinjson",
+  "version": "1.0.1",
+  "description": "",
+  "main": "findinjson.js",
+  "bin": "findinjson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "readstdin": "^1.0.2"
+  }
+}
